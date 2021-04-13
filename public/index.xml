@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Araw Seekers</title>
+    <link>/</link>
+    <description>Recent content on Araw Seekers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Nov 2020 18:06:16 +0800</lastBuildDate>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Colophon</title>
+      <link>/colophon/</link>
+      <pubDate>Sat, 14 Nov 2020 00:10:34 +0800</pubDate>
+      
+      <guid>/colophon/</guid>
+      <description>&lt;p&gt;This blog is our brainchild.&lt;/p&gt;
+&lt;p&gt;Made with &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jimmy Caring</title>
+      <link>/jimcaring/</link>
+      <pubDate>Sat, 14 Nov 2020 00:09:37 +0800</pubDate>
+      
+      <guid>/jimcaring/</guid>
+      <description>&lt;p&gt;Our attempt at vermiculture will teach us more ways than one when it comes to urban gardening.
+This is our stepping stone to permaculture.
+Jimmy, by the way, is the name we&amp;rsquo;ve given to the collective of African Nightcrawlers that helps us in this endeavor.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pet Bookshelf</title>
+      <link>/pet-bookshelf/</link>
+      <pubDate>Fri, 13 Nov 2020 23:58:32 +0800</pubDate>
+      
+      <guid>/pet-bookshelf/</guid>
+      <description>&lt;p&gt;We like to read.&lt;/p&gt;
+&lt;p&gt;But we&amp;rsquo;re not one of those voracious readers who can&amp;rsquo;t seem to get enough of books, and we envy them sometimes.&lt;/p&gt;
+&lt;p&gt;And yet, the number of books that we have continue to accumulate, only collecting dust in the corner where we pushed them.&lt;/p&gt;
+&lt;p&gt;If you love reading books, why not visit our second-hand bookstore on Instagram?
+We try to update the selection.
+Proceeds will directly benefit the owners, Pablo and Edgar (dog and cat, respectively).&lt;/p&gt;
+&lt;p&gt;IG: &lt;a href=&#34;https://instagram.com/petbookshelf&#34;&gt;@petbookshelf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BLOG</title>
+      <link>/blog/</link>
+      <pubDate>Tue, 03 Nov 2020 18:06:16 +0800</pubDate>
+      
+      <guid>/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
+
