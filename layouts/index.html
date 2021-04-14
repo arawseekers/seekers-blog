@@ -14,7 +14,7 @@
 <p>
 {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{ range $pages.ByPublishDate.Reverse }}
-    {{ .PublishDate.Format "2006 Jan 6" }} :	
+    {{ .PublishDate.Format "2006 Jan 2" }} :	
     <a href="{{ .Permalink | relURL }}">{{ .Title }}</a> <br>
 {{ end }}
 </p>
