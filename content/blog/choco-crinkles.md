@@ -7,12 +7,13 @@ draft: false
 {{< figure src="/images/cc3.jpeg" alt="A tray full of baked chocolate crinkles" position="center" caption="" >}}
 
 Isya has long been fond of chocolate crinkles.
-Fond is an understated word, she loves and craves for it!
+But "fond" is an understated word;
+she loves and craves for it!
 This inspired us to finally bake it ourselves,
 following the [Chef RV Manabat's recipe](https://youtu.be/eixJLbZQ0fE).
 
-It was just fitting that Ohio learns to bake this to appease Isya if *wink wink* any misunderstanding arise.
-Best peace offering and lambing a person can give.
+It's only fitting that Ohio has learned to bake this to appease Isya if (*wink wink*) any misunderstanding arises.
+Best peace offering and *lambing* a person can give to their SO.
 
 - Prep time: 15-20 mins
 - Cook time: 12-15 mins
