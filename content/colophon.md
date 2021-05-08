@@ -6,5 +6,6 @@ draft: false
 ---
 This blog is our brainchild.
 
-Made with [Hugo](https://gohugo.io)
+Made with [Hugo](https://gohugo.io).
+No trackers, ads, scripts.
 

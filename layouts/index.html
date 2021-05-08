@@ -14,7 +14,7 @@
 <p>
 {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{ range $pages.ByPublishDate.Reverse }}
-    {{ .PublishDate.Format "2006 Jan 2" }} :	
+    {{ .PublishDate.Format "2006 Jan 02" }} :	
     <a href="{{ .Permalink | relURL }}">{{ .Title }}</a> <br>
 {{ end }}
 </p>
@@ -22,8 +22,8 @@
 <a href="#projects"><h3 class="mbanner">Projects</h3></a>
 
 <p>
-<a href="/pet-bookshelf">Pet Bookshelf</a> is our small online bookstore <br>
-<a href="/jimcaring">Jimmy Caring</a> is our attempt at vermiculture <br>
+<a href="/alwayscarry">Always Carry</a> is our small online shop<br>
+<a href="/jimcaring">Jimmy Caring</a> is our attempt at vermiculture<br>
 <a href="/colophon">This Site!</a> Lorem-ipsum Machinations <br>
 </p>
 {{ end }}

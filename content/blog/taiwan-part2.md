@@ -6,12 +6,7 @@ tags: ["Travel"]
 ---
 _Have you read [Part 1](/taiwan-part1/)_?
 
-
-
-
 ## Day 3
-
-
 
 We ate breakfast in McDo, the one near the place we stayed in, and it didn’t serve any local variant of Taiwan's food. It's all hamburgers, fried chicken, and sausage McNothin’. Some would say that eating at a known (read: exploitive capitalist) fast food chain, one that you also have in your country, is a disservice to the self to get to know the locals or their food, but that wasn’t our case. This particular breakfast had us mingling with the locals. Saturday morning -- wolfing on a large breakfast meal; seeing kids being tutored at the other table; old couple eating their favorite grease-rich food after a walk; a father sharing a hearty meal with his son before a soccer game -- it was at a Mcdonald’s joint where we had the most telling glimpse of the locals in their element, and somehow, we belonged.
 
